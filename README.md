@@ -1,4 +1,4 @@
-# Official SMA container based on linuxserver/sonarr
+# ARM SMA container based on linuxserver/sonarr
 
 Docker container for Sonarr that includes all FFMPEG and python requirements to run SMA with Sonarr.
 
